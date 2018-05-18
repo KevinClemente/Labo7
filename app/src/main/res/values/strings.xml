@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Personas</string>
+    <string name="lblConsultarS">Consultar Lista de Usuarios</string>
+    <string name="lblConsultar">Modificar Usuario</string>
+    <string name="lblRegistrar">Registrar Usuario</string>
+    <string name="dui">Dui</string>
+    <string name="nombre">Nombre</string>
+    <string name="txtBuscar">Buscar</string>
+</resources>
